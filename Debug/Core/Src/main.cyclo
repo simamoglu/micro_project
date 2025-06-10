@@ -1,0 +1,9 @@
+../Core/Src/main.c:85:6:SaveLog	2
+../Core/Src/main.c:102:6:ShowEntry	7
+../Core/Src/main.c:173:5:main	23
+../Core/Src/main.c:279:6:SystemClock_Config	3
+../Core/Src/main.c:327:13:MX_I2C1_Init	2
+../Core/Src/main.c:361:13:MX_SPI1_Init	2
+../Core/Src/main.c:399:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:432:13:MX_GPIO_Init	1
+../Core/Src/main.c:483:6:Error_Handler	1
