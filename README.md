@@ -11,4 +11,4 @@ Added Libraries:
 
 Other important files:
 - main.c (/Core/Src)
-- micro_project.ioc (/Core)
+- micro_project.ioc
